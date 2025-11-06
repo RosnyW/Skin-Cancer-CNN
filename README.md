@@ -1,4 +1,4 @@
-# Same_DA_With_Swish
+# Skin Cancer Detection With CNN
 This project implements a CNN-based model for **skin cancer detection** using the **HAM10000 dataset**.  
 The model uses Swish activation and advanced data augmentation strategies to improve generalization.
 
